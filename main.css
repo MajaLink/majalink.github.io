@@ -13,10 +13,12 @@ header a img {
 }
 
 body {
-    background-color: #2f4f4f;
+    background-color: #283747;
   }
   h1 {
     color: #ffce30;
+    font-family: "Open Sans", sans-serif;
+    margin: auto;
   }
   p {
     color: #FFFFFF;
