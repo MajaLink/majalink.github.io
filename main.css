@@ -1,0 +1,23 @@
+/* Stile für die Website */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:ital@0;1&family=Roboto:wght@300&display=swap');
+
+header>img {
+    max-width: 100%;
+}
+
+header a img {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    margin-top: -50px;
+}
+
+body {
+    background-color: #2f4f4f;
+  }
+  h1 {
+    color: #ffce30;
+  }
+  p {
+    color: #FFFFFF;
+  }
