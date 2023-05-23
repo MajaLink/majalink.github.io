@@ -1,0 +1,1 @@
+# majalink.github.io
